@@ -3,3 +3,7 @@
 def meal_choice (meal = "meat")  
     meal  
 end
+
+def meal_choice (meal = "vegan")
+  meal
+  end
